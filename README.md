@@ -49,6 +49,9 @@ ZipChat automatically translates any compressed message sent by other players us
 
 ## Screenshots
 
+ZipChat/Screenshots Reference/SC1.png
+ZipChat/Screenshots Reference/SC2.png
+
 <br/>
 
 ## Controls and Commands
