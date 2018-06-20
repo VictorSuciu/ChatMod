@@ -9,7 +9,7 @@ ZipChat is a client-side Minecraft mod that enables players to send each other c
 - 1.12
 - 1.12.1
 - 1.12.2
-> ZipChat also works with older Minecraft server versions as long as you can connect with a supported version client (for example, some servers are technically 1.8, but support players using later versions).
+> ZipChat also works in older Minecraft servers as long as you can connect with a supported client version (for example, some servers are technically 1.8, but support players using later versions).
 
 <br/>
 
