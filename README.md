@@ -23,7 +23,7 @@ ZipChat provides a custom chat input window that supports longer messages than t
 | Message Conversion | Length (characters) | Messaage |
 | :---: | :---: | --- |
 | Plaintext Message | 543 | The FitnessGram Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal. \[beep\] A single lap should be completed each time you hear this sound. \[ding\] Remember to run in a straight line, and run as long as possible. The second time you fail to complete a lap before the sound, your test is over. The test will begin on the word start. |
-| Compressed Message | 254 | ⬤ऀഡዜᆿᡏ๋ऀ“ᐍᢪઈऀऀጞ⇒໮₃ଙऀᖠ‵Ꮗᔳ፳ऀ။ཧഏᢵ၁ँឍཱ፶༒࿊ऀ༐੭᪊ቔບऀစౄᛋರᣌऀአᯄᎤ৛಄ँሞᯑ੹ᖯᢇऀअ—ᠿ૵ᏹँ഍ঠ₧ᢵ᳉ऀ᳆మữℏሏऀ੯ჴᓶ⅂ᩜँᙤఘᦃ೽ᇁऀᝂᾒ᷌ᩄᖓऀ౔ὕᨖ࿇છँ஭ᛆᮟພ໦ँ᳎࿻ጐ௄ಈऀ⁛ᖓᨹ⁯༖ँ᧤᳼ᚗᎦតँ਺⅞᷸ᩱ᷊ँ‼ൈ༈᱔།ँ᫠ᛪୂቷ๕ऀ᭐ᥤঠᰗ᪤ँ៷ጕᚫዕᏐँఙṳ᧛ḗᥟऀ᝻ᤋ၂ᩎਸँયᑡᢇႻใऀᐯ୛፣ᗧᙉँᑌ៚ᛄᔱᲗऀ១ዷፒ⅋ᓡऀப෕ᝫྂᖒऀᤎᩩកຕ᱈ऀᐳᇊᾶᳫᢺऀế᭔ᥭፉᝯँ༈᫞᷃ඵᎭऀ᪟ឌཋᡞᮨँᨣংᩲᎹဂऀగ૵ூᎋᴲँ௵ᬈ῏ᩛኡऀऀऀऀऀऀं |
+| Compressed Message | 255 | ⬤倀吡姜墿彏啋倀梍冲忞冈倀倀埚摝勌叠劻倀掦儗卝愢嚭倀僵捯吴傁居倀凈慵堧昐尝.倁梞揪戇柍敜倁巳升孟废呋倀剦憰僥卯屯倀婌儂娉撇嬘倀唏奲愞壌呓倁儹刽戱厷崔倀嵞噗呎嘀巢倀姷斌擫哭摉倁墾強嗯撵奸倁擳恴撫御庶倁戥坱廌媆悡倁尢摾僦峡嗃倀柚夼枵姯婘倀堯戔愉效岧倁吓曐懃夆序倀吏挪啨怘庉倁倕晑嫋暍撟倀傞堓懯姖夰倀慹嚰婅暤喼倀旝剖慕扏傏倁勣彬啺古劯倁嵹婨塋摳囄倁儡斛幖幨寬倁搶傤棸嘌刖倀枥尗増坡撹倀意堧偋忭捉倀場匀儭棢擡倁囹惽崿劗劇倀娋廪奨兖惡倀摿倗奈全摈倁受噾我揍擖倁枵圓叐塔唚倁垵啩曽攫掚倁栝愧儞发匚倀吰孰戓冤据倁匠搗剞內倀倆 |
 
 > Here, ZipChat sent a message that was about 2.1x the maximum chat length.
 
@@ -33,7 +33,7 @@ ZipChat provides a custom chat input window that supports longer messages than t
 | Message Conversion | Length (characters) | Messaage |
 | :---: | :---: | --- |
 | Plaintext Message | 146 | To be, or not to be? That is the question-Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, |
-| Compressed Message | 98 | ⬤ऀഡዜᆿᡏ๋ऀ፜᳆धॼऀऀᒿᲞᕌᆱ଄ऀ⃇ឋදીూँ↾ॸᦜຫጢऀ᤼ॉὈᇷዑँខኳ᳅Ẽ൪ऀᢞῼ᪟ᐻ઄ऀᶏ૤ፖទ࿴ऀຣ᪲᭵ᜲᨆऀடᛨᭉዸᒥऀᗶᩧኰ›ᙲँᬜ೐፜औ৘ऀᆹ੹ᯯṥᆲऀ୅᝖↍ᰮႦँ਼Ữ℔ᡢऀइ |
+| Compressed Message | 98 | ⬤倀吡姜墿彏啋倀叨悜桟偻倀倀昖巑営梯劺倀垯桕弩斚垻倀嬭梫哝惹塨倁剏幺廱惒塜倀唯慉卻暣儧倁售圎桫喺搬倀吚宬剹岗妭倁枰妆傷抽帹倀抁囊擀巓怕倁怾揹喯愃刖倀廃嗭儢婮兆倀傗捗叫廅嗃.倁暮僢倴倀倀倄 |
 
 > Here, ZipChat sent a message that was a little under 1.5x the maximum chat length.
 
