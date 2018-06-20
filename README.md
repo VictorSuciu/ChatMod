@@ -59,6 +59,8 @@ ZipChat automatically translates any compressed message sent by other players us
 | :---: | --- |
 | Z | Open ZipChat text input window. |
 
+<br/>
+
 ### Commands
 > NOTE: These commands only work inside ZipChat's text window.
 
