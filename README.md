@@ -40,7 +40,7 @@ ZipChat provides a custom chat input window that supports longer messages than t
 <br/>
 
 ---
-### *Don't worry!*
+## *Don't worry!*
 ZipChat automatically translates any compressed message sent by other players using this mod back into their orignial text, replacing the compressed gibberish in your chat with the original message. This means that any number of players can communicate seamlessly with ZipChat. 
 
 ---
