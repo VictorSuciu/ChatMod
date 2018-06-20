@@ -22,7 +22,7 @@ ZipChat provides a custom chat input window that supports longer messages than t
 | Message Conversion | Length (characters) | Messaage |
 | :---: | :---: | --- |
 | Plaintext Message | 543 | The FitnessGram Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal. \[beep\] A single lap should be completed each time you hear this sound. \[ding\] Remember to run in a straight line, and run as long as possible. The second time you fail to complete a lap before the sound, your test is over. The test will begin on the word start. |
-| Compressed Message | 254 | ⬤ༀ≨⮍ᴎ䈌༣ༀ⑊㉽㱽༙ༀༀぉᵓဪᱞ༎ༀ䆝⯥ᤀ㪌ཆༀ〆䐣᣺ᒏ༱༁㉼ၟዴ䣴༭ༀ᜗ジሆ䜗༥ༀၣ፩✽䓹ཪༀ䦨Ṝ㍥㾟༗༁⫗ጸᴚኄཀྵༀᬧ⴩䍘ᵬཊ༁䥚།⿪䒔྅ༀ␓⫆⌊∍༽ༀ᳓〛ℎ⮰ཱུ༁ᤋㄲ䅯ᳰ༻ༀ᾽䔄リᐭཕༀ⫱㏭䲮䓓༊༁⥿㶂㬇䝝༧༁䦮䰥ὔ䙍༗ༀ㓬⼺᧻ᬮ༩༁ከ∔ᮀ⸎ར༁ᄄパᬲ㟄ྌ༁䊪㜮㐺䨩༨༁ㇰ⸃ᴒᐍ༤ༀ㹨⃛䍥═ཷ༁㱡㕭ℏᣄཉ༁ᬒ㉱᮰㻶཮ༀ䏳䬠⌒ὑ༈༁↪⣟䋠㑱༣ༀ㡔㊊▊䘔ཙ༁ⱦ㾈ᦨの྄ༀ㴢Ỗ༶✀ཐༀჟ㽲㕣ᇕཕༀ㓊⤅ᜡ⪐ྂༀ䜡䀔⤃⢌ཪༀ䉻䄇ᓃ㞚ཡ༁䢶῅Ꮒᴖ཈ༀ㍭䌄᫐ᴏཾ༁ᵶῥ䢞⤂༯ༀ䥥⭡ㅅ㙆ྈ༁቎㿫ἰᣒཁༀༀༀༀༀༀ༂ |
+| Compressed Message | 254 | ⬤ऀഡዜᆿᡏ๋ऀ“ᐍᢪઈऀऀጞ⇒໮₃ଙऀᖠ‵Ꮗᔳ፳ऀ။ཧഏᢵ၁ँឍཱ፶༒࿊ऀ༐੭᪊ቔບऀစౄᛋರᣌऀአᯄᎤ৛಄ँሞᯑ੹ᖯᢇऀअ—ᠿ૵ᏹँ഍ঠ₧ᢵ᳉ऀ᳆మữℏሏऀ੯ჴᓶ⅂ᩜँᙤఘᦃ೽ᇁऀᝂᾒ᷌ᩄᖓऀ౔ὕᨖ࿇છँ஭ᛆᮟພ໦ँ᳎࿻ጐ௄ಈऀ⁛ᖓᨹ⁯༖ँ᧤᳼ᚗᎦតँ਺⅞᷸ᩱ᷊ँ‼ൈ༈᱔།ँ᫠ᛪୂቷ๕ऀ᭐ᥤঠᰗ᪤ँ៷ጕᚫዕᏐँఙṳ᧛ḗᥟऀ᝻ᤋ၂ᩎਸँયᑡᢇႻใऀᐯ୛፣ᗧᙉँᑌ៚ᛄᔱᲗऀ១ዷፒ⅋ᓡऀப෕ᝫྂᖒऀᤎᩩកຕ᱈ऀᐳᇊᾶᳫᢺऀế᭔ᥭፉᝯँ༈᫞᷃ඵᎭऀ᪟ឌཋᡞᮨँᨣংᩲᎹဂऀగ૵ூᎋᴲँ௵ᬈ῏ᩛኡऀऀऀऀऀऀं |
 
 > Here, ZipChat sent a message that was about 2.1x the maximum chat length
 
@@ -31,10 +31,10 @@ ZipChat provides a custom chat input window that supports longer messages than t
 ### Servers of versions below 1.11 - Maximum chat length: 100
 | Message Conversion | Length (characters) | Messaage |
 | :---: | :---: | --- |
-| Plaintext Message | 128 | To be, or not to be? That is the question-Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, |
-| Compressed Message | 93 | ⬤ༀ≨⮍ᴎ䈌༣ༀᗌ᝞ᛊ༈ༀༀ⧨ᚒ᫘ⰺ༒ༀ䨩ᙶ㲑⋔༴ༀ㡂䎉⧕䗸༸༁ⱝ⨻၃㉍༸ༀㅸ⑀䑵䇏༇༁ㅝួ⓶Ⱑྈༀ⪐ア᛹Ⱛཁ༁㳁⾹䞣ᶮའༀ྘㸫ᬞ䄾ཬ༁ᕯ᷻㲋ᜆ༎ༀᏬ㞘㝁㗍༈ༀቍ㩴䳈䲞༦.༁ㅫ⭳༈ༀༀ༄ |
+| Plaintext Message | 146 | To be, or not to be? That is the question-Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, |
+| Compressed Message | 98 | ⬤ऀഡዜᆿᡏ๋ऀ፜᳆धॼऀऀᒿᲞᕌᆱ଄ऀ⃇ឋදીూँ↾ॸᦜຫጢऀ᤼ॉὈᇷዑँខኳ᳅Ẽ൪ऀᢞῼ᪟ᐻ઄ऀᶏ૤ፖទ࿴ऀຣ᪲᭵ᜲᨆऀடᛨᭉዸᒥऀᗶᩧኰ›ᙲँᬜ೐፜औ৘ऀᆹ੹ᯯṥᆲऀ୅᝖↍ᰮႦँ਼Ữ℔ᡢऀइ |
 
-> Here, ZipChat sent a message that was about 1.3x the maximum chat length
+> Here, ZipChat sent a message that was a little under 1.5x the maximum chat length
 
 <br/>
 
