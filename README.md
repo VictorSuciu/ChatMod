@@ -53,6 +53,12 @@ ZipChat automatically translates any compressed message sent by other players us
 
 ![alt text](https://github.com/VictorSuciu/ZipChat/blob/master/Screenshots_Reference/SC2.png)
 
+---
+
+![alt text](https://github.com/VictorSuciu/ZipChat/blob/master/Screenshots_Reference/SC3.png)
+
+![alt text](https://github.com/VictorSuciu/ZipChat/blob/master/Screenshots_Reference/SC4.png)
+
 <br/>
 
 ## Controls and Commands
