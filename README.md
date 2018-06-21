@@ -49,9 +49,9 @@ ZipChat automatically translates any compressed message sent by other players us
 
 ## Screenshots
 
-![alt text](https://github.com/VictorSuciu/ZipChat/edit/master/README.mdZipChat/Screenshots Reference/SC1.png, "SC1")
+![alt text](https://github.com/VictorSuciu/ZipChat/blob/master/Screenshots_Reference/SC1.png)
 
-![alt text](https://github.com/VictorSuciu/ZipChat/edit/master/README.mdZipChat/Screenshots Reference/SC2.png, "SC2")
+![alt text](https://github.com/VictorSuciu/ZipChat/blob/master/Screenshots_Reference/SC2.png)
 
 <br/>
 
