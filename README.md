@@ -1,7 +1,7 @@
 # ZipChat
 > Built by PaperMage
 ## A way to bypass Minecraft's chat character limit.
-ZipChat is a client-side Minecraft mod that enables players to send each other chat messges that would otherwise exceed the length limit. This mod allows messages up to 2x the length normally allowed by Minecraft, and unlimited length for certain types of messages.
+ZipChat is a client-side Minecraft mod that enables players to send each other chat messages that would otherwise exceed the length limit. This mod allows messages up to 2x the length normally allowed by Minecraft, and unlimited length for certain types of messages.
 
 <br/>
 
@@ -41,7 +41,7 @@ ZipChat provides a custom chat input window that supports longer messages than t
 
 ---
 ## *Don't worry!*
-ZipChat automatically translates any compressed message sent by other players using this mod back into their orignial text, replacing the compressed gibberish in your chat with the original message. This means that any number of players can communicate seamlessly with ZipChat. 
+ZipChat automatically translates any compressed message sent by other players using this mod back into their orignial text, replacing the compressed gibberish in your chat with the original message. This means that any number of players can communicate seamlessly with ZipChat. Other players without the mod see the compressed giberish presented in the examples above, so only players also using ZipChat can recieve your long messages.
 
 ---
 
@@ -76,5 +76,11 @@ ZipChat automatically translates any compressed message sent by other players us
 
 | Command | Shortened Version | Description |
 | :---: | :---: | --- |
-| /ToggleMaxLength | /tml | Toggles the maximum chat length between 100 and 256 characters. Use this if ZipChat's maximum length is different than your server's maximum length. If, for instance, ZipChat's max length is 256 and the server's max length is 100, your message might not be sent through chat because it is too long. |
+| /ToggleMaxLength | /tml | Toggles the maximum chat length between 100 and 256 characters. Use this if ZipChat's maximum length is different than your server's maximum length. If, for instance, ZipChat's max length is 256 and the server's max length is 100, your message might not be sent through chat because it is too long. Just run this command to fix that. |
+
+---
+## *Important Note!*
+ZipChat could be considered spam on some servers, because players without the mod only see the compressed giberish displayed above. Make sure to check your server's chat rules before using ZipChat. Use at your own risk!
+
+---
 
