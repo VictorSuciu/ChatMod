@@ -62,6 +62,8 @@ ZipChat automatically translates any compressed message sent by other players us
 
 ![alt text](https://github.com/VictorSuciu/ZipChat/blob/master/Screenshots_Reference/SC4.png)
 
+>The text turns red when even the compressed message is too long to send. ZipChat will not send this message.
+
 <br/>
 
 ## Controls and Commands
