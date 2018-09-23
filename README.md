@@ -1,5 +1,4 @@
 # ZipChat
-> Built by PaperMage
 
 | Download from the [CurseForge Page](https://minecraft.curseforge.com/projects/zipchat) |
 | :--- |
