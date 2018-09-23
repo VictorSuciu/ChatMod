@@ -1,8 +1,12 @@
 # ZipChat
 > Built by PaperMage
 
-**Download** from the 
-[ZipChat CurseForge Page](https://minecraft.curseforge.com/projects/zipchat) - Leave comments, requests, or bug reports.
+| Download from the [CurseForge Page](https://minecraft.curseforge.com/projects/zipchat) |
+| :--- |
+| Or leave comments, requests, and bug reports. |
+
+ 
+
 
 ## A way to bypass Minecraft's chat character limit.
 ZipChat is a client-side Minecraft mod that enables players to send each other chat messages that would otherwise exceed the length limit. This mod allows messages up to 2x the length normally allowed by Minecraft, and unlimited length for certain types of messages.
