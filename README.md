@@ -1,6 +1,7 @@
 # ZipChat
 > Built by PaperMage
 
+Download from the 
 [ZipChat CurseForge Page](https://minecraft.curseforge.com/projects/zipchat) - Leave comments, requests, or bug reports.
 
 ## A way to bypass Minecraft's chat character limit.
