@@ -21,10 +21,15 @@ ZipChat is a client-side Minecraft mod that enables players to send each other c
 <br/>
 
 ## How does it work?
-ZipChat provides a custom chat input window that supports longer messages than the default Minecrfat chat box. If you type or paste a message in this window that is longer than the maximum length, it 'compresses' the message like a zip file so it can fit within the length constraints, and sends that through chat.
+ZipChat provides a custom chat input window that supports longer messages than the default Minecrfat chat box. If you type or paste a message in this window that is **longer than the maximum length**, it 'compresses' the message like a zip file so it can fit within the length constraints, and sends that through chat. <br> Otherwise, messages that fit within the limit are sent normally without being compressed.
+
+<br/
+>
+## Example Messages
+
 >NOTE: As of Minecraft version 1.11, the maximum chat length is 256 characters. Older versions have a limit of 100 characters. The following tables showcase the types of messages you can send with this mod.
 
-<br/>
+<br>
 
 ### Servers of versions 1.11 and higher - Maximum chat length: 256
 | Message Conversion | Length (characters) | Messaage |
